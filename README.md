@@ -2,6 +2,7 @@
 ## Projects made only with HTML&CSS and vanilla JavaScript.
 
 Check each project demo here:
+
 #3D Effect - https://unruffled-tesla-70e6de.netlify.app/
 
 #Analog Clock UI Design - https://laughing-clarke-d5e298.netlify.app/
