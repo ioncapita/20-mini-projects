@@ -31,3 +31,7 @@ Check each project demo here:
 
 #Weather App - https://vibrant-leavitt-ecab3c.netlify.app/
 
+#Filterable Image Gallery jQuery - https://agitated-allen-265514.netlify.app/
+
+#Whack a Mole Game - https://brave-banach-765fa5.netlify.app/
+
