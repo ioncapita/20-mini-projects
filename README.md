@@ -9,6 +9,8 @@ Check each project demo here:
 
 #Buy iPhone XR - https://epic-lichterman-828907.netlify.app/
 
+#Calendar UI Design - https://reverent-franklin-61287e.netlify.app/
+
 #Clock UI Design - https://priceless-gates-1256d4.netlify.app/
 
 #Clock - https://gifted-shirley-785667.netlify.app/
