@@ -1,0 +1,89 @@
+html {
+  text-align: center;
+  font-size: 0.8em;
+  font-family: "Courier New", Courier, monospace;
+}
+h2 {
+  margin-bottom: 0.5em;
+}
+.instructions {
+  margin-bottom: 2em;
+}
+form {
+  text-align: left;
+  width: 48vw;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0.5em 2em;
+  background-color: rgb(255, 153, 0);
+  margin-bottom: 2vh;
+}
+input[type="text"],
+[type="url"] {
+  width: 47vw;
+  display: flex;
+}
+input[type="submit"],
+[type="button"] {
+  justify-self: center;
+  display: inline-flex;
+  border: 1px lightgray solid;
+  font-family: monospace;
+  background-color: rgb(216, 161, 89);
+  padding: 0.5em 1em;
+  margin-bottom: 2em;
+  border-radius: 3em;
+}
+input[type="submit"]:hover,
+input[type="button"]:hover {
+  background-color: rgb(216, 161, 89);
+  cursor: pointer;
+}
+#meme-flexbox {
+  display: flex;
+  width: auto;
+  height: auto;
+  margin: 1em;
+  align-items: center;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+.meme-wrapper {
+  position: relative;
+}
+.toptext {
+  position: absolute;
+  top: 8%;
+  left: 0%;
+  font-family: impact;
+  text-transform: uppercase;
+  color: white;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+  font-size: 2.5em;
+  display: inline-block;
+  width: -webkit-fill-available;
+  text-align: -webkit-center;
+}
+.btmtext {
+  position: absolute;
+  top: 80%;
+  left: 0%;
+  font-family: impact;
+  text-transform: uppercase;
+  color: white;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+  font-size: 2.5em;
+  display: inline-block;
+  width: -webkit-fill-available;
+  text-align: -webkit-center;
+}
+img {
+  min-width: 300px;
+  min-height: 300px;
+  width: 63vmin;
+  height: 63vmin;
+  object-fit: cover;
+}
