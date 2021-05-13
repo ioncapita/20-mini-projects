@@ -9,6 +9,8 @@ Check each project demo here:
 
 #Buy iPhone XR - https://epic-lichterman-828907.netlify.app/
 
+#Calendar UI Design - https://reverent-franklin-61287e.netlify.app/
+
 #Clock UI Design - https://priceless-gates-1256d4.netlify.app/
 
 #Clock - https://gifted-shirley-785667.netlify.app/
@@ -28,4 +30,8 @@ Check each project demo here:
 #Sticky Navbar - https://mystifying-davinci-c7748f.netlify.app/
 
 #Weather App - https://vibrant-leavitt-ecab3c.netlify.app/
+
+#Filterable Image Gallery jQuery - https://agitated-allen-265514.netlify.app/
+
+#Whack a Mole Game - https://brave-banach-765fa5.netlify.app/
 
