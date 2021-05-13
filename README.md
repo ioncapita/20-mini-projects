@@ -19,6 +19,10 @@ Check each project demo here:
 
 #Github Profile Card - https://vigilant-fermi-bafe3b.netlify.app/
 
+#Hoverboard - https://wonderful-euler-113568.netlify.app/
+
+$Meme-Generator - https://stupefied-shaw-7bc6b6.netlify.app/
+
 #Mini-Piano - https://eloquent-borg-e966ab.netlify.app/
 
 #Mobile Navigation - https://trusting-mayer-a7d4c3.netlify.app/
@@ -26,6 +30,10 @@ Check each project demo here:
 #Movie App - https://compassionate-ardinghelli-eae3bd.netlify.app/
 
 #Password Generator - https://heuristic-shaw-370899.netlify.app/
+
+#Quiz App - https://goofy-shirley-4d30ca.netlify.app/
+
+#Random Choise Picker - https://kind-cray-9d7a4b.netlify.app/
 
 #Sticky Navbar - https://mystifying-davinci-c7748f.netlify.app/
 
